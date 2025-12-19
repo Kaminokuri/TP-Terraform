@@ -4,11 +4,6 @@
 
 Infrastructure as Code en Terraform : réseau, base de données privée, compute autoscalé et load balancer HTTP.
 
-<!-- Animation (mets ton GIF ici) -->
-<p>
-  <img src="assets/demo.gif" width="860" alt="Démo Terraform (init/plan/apply)" />
-</p>
-
 <!-- Badges (optionnels) -->
 <p>
   <img src="https://img.shields.io/badge/Terraform-IaC-blue" alt="Terraform badge" />
