@@ -53,3 +53,12 @@ tp-terraform-gcp/
   compute.tf
   load-balancer.tf
   .gitignore
+```
+
+---
+
+## Auteur
+
+* GitHub : Kaminokuri
+* OS : macOS
+* Projet : TP Terraform (Infrastructure GCP)
