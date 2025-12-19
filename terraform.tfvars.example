@@ -1,0 +1,5 @@
+project_id   = "dummy-project"
+region       = "europe-west1"
+zones        = ["europe-west1-b"]
+bucket_name  = "dummy-unique-name"
+db_password  = "CHANGE_ME"
